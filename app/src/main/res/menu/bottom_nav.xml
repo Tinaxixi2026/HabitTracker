@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_schedule"
+        android:icon="@drawable/ic_schedule"
+        android:title="@string/tab_schedule" />
+    <item
+        android:id="@+id/nav_checkin"
+        android:icon="@drawable/ic_check"
+        android:title="@string/tab_checkin" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/tab_profile" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#8CC63F</color>
+    <color name="primaryDark">#6EA32A</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#EAF3D6</color>
+    <color name="onPrimaryContainer">#22330A</color>
+    <color name="checked">#8CC63F</color>
+    <color name="streak_color">#E8590C</color>
+    <color name="text_primary">#1B1B1B</color>
+    <color name="text_secondary">#8A8A8E</color>
+    <color name="divider">#E5E5EA</color>
+    <color name="ic_launcher_background">#8CC63F</color>
+</resources>
